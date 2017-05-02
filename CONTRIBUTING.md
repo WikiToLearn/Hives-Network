@@ -1,11 +1,7 @@
 
 Thank you for your interest in WikiToLearn Hives :tada:!
 
-> We believe that Open Education is great, and its development needs to be fostered.
-
-> To achieve this, we work with open source/education enthusiasts to build local communities
-> so that students, teachers and researchers can build free educational material
-> for the web and the tools that help this creation.
+<big><p align="center">We believe that Open Education is great, and its development needs to be fostered. To achieve this, we work with open source/education enthusiasts to build local communities so that students, teachers and researchers can build free educational material for the web and the tools that help this creation.</p></big>
 
 ## Creating a hive
 
