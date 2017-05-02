@@ -26,3 +26,4 @@ This structure is the basic unit for the local teams of WikiToLearn.
 
 ## Useful links
 * Code of Conduct: https://www.kde.org/code-of-conduct/
+Please report any incidents to [community-wg@kde.org](mailto:community-wg@kde.org)
