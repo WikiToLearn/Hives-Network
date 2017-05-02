@@ -1,7 +1,7 @@
 # Sample Hive
 
-**Hive leader**: ...
-**Physical reference**: (e.g. Harvard University, or Barcelona, or India)
+* **Hive leader**: ...
+* **Physical reference**: (e.g. Harvard University, or Barcelona, or India)
 
 Completed steps:
 - [x] Opened this template
