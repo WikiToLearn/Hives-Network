@@ -12,12 +12,11 @@ The WikiToLearn Hives Network is a network of local communities which promote
 the creation and sharing of free educational material. It also acts as a local
 "chapter" of WikiToLearn.
 
-
-
 ### Structure of a hive
+
 This structure is the basic unit for the local teams of WikiToLearn.
 
-* Hive leader: The point of contact with the rest of WikiToLearn team.
+* Hive leader: The point of contact with the rest of WikiToLearn project.
 
 ### Every hive has:
 
