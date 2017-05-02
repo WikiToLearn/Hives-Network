@@ -15,12 +15,11 @@ the creation and sharing of free educational material. It also acts as a local
 
 
 ### Structure of a hive
-This structure is the basic unit for the local teams of WikiToLearn
+This structure is the basic unit for the local teams of WikiToLearn.
 
 * Hive leader: The point of contact with the rest of WikiToLearn team.
 
-### Every hive has
-
+### Every hive has:
 
 * **A chat room on the [main WikiToLearn chat](https://chat.wikitolearn.org)**: The naming scheme is h-`<hive name>`
 * **Blog account**: An official account on https://blogs.wikitolearn.org
