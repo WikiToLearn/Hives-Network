@@ -1,11 +1,8 @@
 # Hives-Network
 The Network of WikiToLearn Hives.
 
-> We believe that Open Education is great, and its development needs to be fostered.
 
-> To achieve this, we work with open source/education enthusiasts to build local communities
-> so that students, teachers and researchers can build free educational material
-> for the web and the tools that help this creation.
+**We believe that Open Education is great. We work with open source/education enthusiasts to build local communities so that students, teachers and researchers can build free educational material for the web and the tools that help this creation.**
 
 The WikiToLearn Hives Network is a network of local communities which promote
 the creation and sharing of free educational material. It also acts as a local
