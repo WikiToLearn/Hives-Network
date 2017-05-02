@@ -21,12 +21,10 @@ This structure is the basic unit for the local teams of WikiToLearn
 
 ### Every hive has
 
-* Rocket.chat room: The naming scheme is h-`<hive name>`
-* Meta page: A meta page to publish news
-* Blog account: An account on blogs.wikitolearn.org
 
-=== Creating a hive ===
-
+* **A chat room on the [main WikiToLearn chat](https://chat.wikitolearn.org)**: The naming scheme is h-`<hive name>`
+* **Blog account**: An official account on https://blogs.wikitolearn.org
+* **[Meta](https://meta.wikitolearn.org) page** (optional): A meta page to act as homepage
 
 ## Useful links
 * Code of Conduct: https://www.kde.org/code-of-conduct/
