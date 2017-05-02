@@ -12,7 +12,7 @@ This structure is the basic unit for the local teams of WikiToLearn.
 
 * **Hive leader**: The point of contact with the rest of WikiToLearn project.
 * (optional) **Hive executive team**: A group of people who help the leader run the hive.
-* **Hive contriutor**: The main contributor of the hive. Takes care of running the events and attracting new people in the creation of Open Collaborative Educational Resources.
+* **Hive contributor**: The main contributor of the hive. Takes care of running the events and attracting new people in the creation of Open Collaborative Educational Resources.
 
 ### Every hive has:
 
