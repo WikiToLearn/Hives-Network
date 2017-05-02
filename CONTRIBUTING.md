@@ -13,6 +13,10 @@ To create a hive, you need to send a pull request. Here's how to do so:
 
 The hives coordinator will get in touch with you and hopefully accept your pull request. From that point, you will be a Hive leader! :tada:
 
+## Sprints and conferences
+
+We organize sprints and conferences where contributors meet. Follow us on [Telegram](https://t.me/WikiToLearnNews) to know more about it!
+
 ## Participation guidelines
 
 * Code of Conduct: https://www.kde.org/code-of-conduct/
