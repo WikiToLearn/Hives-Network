@@ -26,3 +26,5 @@ Please report any incidents to [community-wg@kde.org](mailto:community-wg@kde.or
 ## Communication channels
 
 You can find us here: https://chat.wikitolearn.org/channel/participation
+
+Additionally, there is a (still unbridged) [Telegram Channel](https://t.me/joinchat/AAAAAAu6EZYANThT_KmRoA)
