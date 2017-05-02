@@ -3,9 +3,9 @@ Thank you for your interest in WikiToLearn Hives :tada:!
 
 > We believe that Open Education is great, and its development needs to be fostered.
 
-We work with open source/education enthusiasts to build WikiToLearn Hives
-so that students, teachers and researchers can build free educational material
-for the web and the tools that help this creation.
+> To achieve this, we work with open source/education enthusiasts to build local communities
+> so that students, teachers and researchers can build free educational material
+> for the web and the tools that help this creation.
 
 ## Creating a hive
 
@@ -20,6 +20,7 @@ The hives coordinator will get in touch with you and hopefully accept your pull 
 ## Participation guidelines
 
 * Code of Conduct: https://www.kde.org/code-of-conduct/
+
 Please report any incidents to [community-wg@kde.org](mailto:community-wg@kde.org)
 
 ## Communication channels

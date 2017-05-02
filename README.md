@@ -1,22 +1,23 @@
 # Hives-Network
 The Network of WikiToLearn Hives.
 
-
 > We believe that Open Education is great, and its development needs to be fostered.
 
-We work with open source/education enthusiasts to build WikiToLearn Hives
-so that students, teachers and researchers can build free educational material
-for the web and the tools that help this creation.
+> To achieve this, we work with open source/education enthusiasts to build local communities
+> so that students, teachers and researchers can build free educational material
+> for the web and the tools that help this creation.
 
 The WikiToLearn Hives Network is a network of local communities which promote
 the creation and sharing of free educational material. It also acts as a local
-"chapter" of WikiToLearn.
+"chapter" of WikiToLearn, facilitating the participation of new contributors.
 
 ### Structure of a hive
 
 This structure is the basic unit for the local teams of WikiToLearn.
 
-* Hive leader: The point of contact with the rest of WikiToLearn project.
+* **Hive leader**: The point of contact with the rest of WikiToLearn project.
+* (optional) **Hive executive team**: A group of people who manage the hive.
+* **Hive **
 
 ### Every hive has:
 
@@ -26,4 +27,5 @@ This structure is the basic unit for the local teams of WikiToLearn.
 
 ## Useful links
 * Code of Conduct: https://www.kde.org/code-of-conduct/
+
 Please report any incidents to [community-wg@kde.org](mailto:community-wg@kde.org)
