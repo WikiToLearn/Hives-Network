@@ -9,7 +9,7 @@ the creation and sharing of free educational material. It also acts as a local
 Check out [what is a hive](What_is_a_Hive.md). Here is a list of [proposed activities](Activities.md).
 
 ## Starting a hive
-Check out [the CONTRIBUTING] file to understand how to start a hive.
+Check out [the CONTRIBUTING](CONTRIBUTING.md) file to understand how to start a hive.
 
 ## Useful links
 * Code of Conduct: https://www.kde.org/code-of-conduct/
