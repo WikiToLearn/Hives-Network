@@ -10,7 +10,11 @@ In other words: **consistent, recreational, short meetings are your best bet**.
 
 Ask yourself: is there a place and time which is a natural meeting place for the community of my hive? It could be a University pub, a lecture hall, an office or simply a public space. This place should be a starting point for your community to start gathering. Set up informal meetings, preferrably around food, and start meeting up.
 
-# Resources
+What should you discuss? For how long?
+
+At the end of the event, take a group photo and post it on your channels. This will make newcomers feel welcomed in the group.
+
+# Resources, ideas and swag
 You can find useful resources in the `resources` directory.
 
 # Interesting links
