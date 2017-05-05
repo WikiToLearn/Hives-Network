@@ -6,7 +6,7 @@ The WikiToLearn Hives Network is a network of local communities which promote
 the creation and sharing of free educational material. It also acts as a local
 "chapter" of WikiToLearn, facilitating the participation of new contributors, and introducing new people to the idea of open learning.
 
-Check out [what is a hive](What_is_a_hive).
+Check out [what is a hive](What_is_a_Hive.md).
 
 
 ## Useful links
