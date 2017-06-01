@@ -1,10 +1,10 @@
 What is a hive?
 
+A hive is a group of people who care about open education and decide to take action. They use tools such as WikiToLearn to share knowledge, they organize local events. They make use of the network to help each other improving open education.
+
 ### Structure of a hive
 
-This structure is the basic unit for the local teams of WikiToLearn.
-
-* **Hive leader**: The point of contact with the rest of WikiToLearn project.
+* **Hive leader**: The point of contact with the rest of the network.
 * (optional) **Hive executive team**: A group of people who help the leader run the hive.
 * **Hive contributor**: The main contributor of the hive. Takes care of running the events and attracting new people in the creation of Open Collaborative Educational Resources.
 
