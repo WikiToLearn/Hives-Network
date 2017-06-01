@@ -6,6 +6,8 @@ The WikiToLearn Open Education Hives Network is a network of local communities w
 the creation and sharing of free educational material. It also acts as a local
 "chapter" of WikiToLearn, facilitating the participation of new contributors, and introducing new people to the idea of open learning.
 
+**MOZILLA GLOBAL SPRINT PARTICIPANT?** Check out our tasks: https://github.com/WikiToLearn/Hives-Network/issues
+
 Check out [what is a hive](What_is_a_Hive.md). Do you want to contribute to this project? Check out our [CONTRIBUTING guidelines](Contributing.md). Here is a list of [proposed activities](Activities.md) that a hive leader can organize.
 
 ## Starting a hive
