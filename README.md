@@ -8,7 +8,7 @@ the creation and sharing of free educational material. It also acts as a local
 
 **MOZILLA GLOBAL SPRINT PARTICIPANT?** Check out our tasks: https://github.com/WikiToLearn/Hives-Network/issues
 
-Check out [what is a hive](What_is_a_Hive.md). Do you want to contribute to this project? Check out our [CONTRIBUTING guidelines](Contributing.md). Here is a list of [proposed activities](Activities.md) that a hive leader can organize.
+Check out [what is a hive](What_is_a_Hive.md). Do you want to contribute to this project? Check out our [CONTRIBUTING guidelines](CONTRIBUTING.md). Here is a list of [proposed activities](Activities.md) that a hive leader can organize.
 
 ## Starting a hive
 Check out [the CONTRIBUTING](CONTRIBUTING.md) file to understand how to start a hive.
