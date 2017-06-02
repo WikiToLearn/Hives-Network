@@ -15,5 +15,6 @@ Check out [the CONTRIBUTING](CONTRIBUTING.md) file to understand how to start a 
 
 ## Useful links
 * Code of Conduct: https://www.kde.org/code-of-conduct/
+* WikiToLearn has many more junior jobs! See: https://phabricator.kde.org/project/view/150/
 
 Please report any incidents to [community-wg@kde.org](mailto:community-wg@kde.org)
